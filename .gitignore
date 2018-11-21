@@ -1,6 +1,6 @@
-./obj
-./obj/*
-./.vscode
-./.vscode/*
-./bin
-./bin/*
+obj
+obj/*
+.vscode
+.vscode/*
+bin
+bin/*
