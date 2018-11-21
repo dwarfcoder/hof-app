@@ -6,7 +6,10 @@ namespace hof_app
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var res = Functions.AddTwoIntegers(4, 5);
+
+            // Test calling curry functions
+            Functions.CallCurry();
         }
     }
 }
